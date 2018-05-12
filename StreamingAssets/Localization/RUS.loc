@@ -1,1 +1,2935 @@
-{"@type":"Unleash.Localization, Unleash.Foundation","languageName":"\u0440\u0443\u0441\u0441\u043a\u0438\u0439","languageCode":"RUS","entries":[]}
+{
+  "@type" : "Unleash.Localization, Unleash.Foundation",
+  "languageName" : "\u0440\u0443\u0441\u0441\u043a\u0438\u0439",
+  "languageCode" : "RUS",
+  "entries" : [
+    {
+      "key" : "Mr. Builder (Very Easy)",
+      "value" : ""
+    },
+    {
+      "key" : "Mr. Random (Easy)",
+      "value" : ""
+    },
+    {
+      "key" : "Mr. Coincidence (Hard)",
+      "value" : ""
+    },
+    {
+      "key" : "Mr. Think (Very Hard)",
+      "value" : ""
+    },
+    {
+      "key" : "Public",
+      "value" : ""
+    },
+    {
+      "key" : "Private",
+      "value" : ""
+    },
+    {
+      "key" : "Line Tower Wars",
+      "value" : ""
+    },
+    {
+      "key" : "Tower Defense",
+      "value" : ""
+    },
+    {
+      "key" : "Sandbox",
+      "value" : ""
+    },
+    {
+      "key" : "Tutorial",
+      "value" : ""
+    },
+    {
+      "key" : "Default",
+      "value" : ""
+    },
+    {
+      "key" : "Very Low",
+      "value" : ""
+    },
+    {
+      "key" : "Low",
+      "value" : ""
+    },
+    {
+      "key" : "High",
+      "value" : ""
+    },
+    {
+      "key" : "Very High",
+      "value" : ""
+    },
+    {
+      "key" : "Very Easy",
+      "value" : ""
+    },
+    {
+      "key" : "Easy",
+      "value" : ""
+    },
+    {
+      "key" : "Hard",
+      "value" : ""
+    },
+    {
+      "key" : "Very Hard",
+      "value" : ""
+    },
+    {
+      "key" : "Random",
+      "value" : ""
+    },
+    {
+      "key" : "See a list of available games to join.",
+      "value" : ""
+    },
+    {
+      "key" : "Quick join or create a game for one of the available game modes.",
+      "value" : ""
+    },
+    {
+      "key" : "Create and edit loadouts.",
+      "value" : ""
+    },
+    {
+      "key" : "Create a new game.",
+      "value" : ""
+    },
+    {
+      "key" : "Check out the scoreboards for all relevant game modes.",
+      "value" : ""
+    },
+    {
+      "key" : "The current server region. Click to change.",
+      "value" : ""
+    },
+    {
+      "key" : "Quit",
+      "value" : ""
+    },
+    {
+      "key" : "The current game version",
+      "value" : ""
+    },
+    {
+      "key" : "Loading...",
+      "value" : ""
+    },
+    {
+      "key" : "Yes",
+      "value" : ""
+    },
+    {
+      "key" : "No",
+      "value" : ""
+    },
+    {
+      "key" : "Main Menu",
+      "value" : ""
+    },
+    {
+      "key" : "Play Now",
+      "value" : ""
+    },
+    {
+      "key" : "Create",
+      "value" : ""
+    },
+    {
+      "key" : "Join",
+      "value" : ""
+    },
+    {
+      "key" : "Loadouts",
+      "value" : ""
+    },
+    {
+      "key" : "Scoreboards",
+      "value" : ""
+    },
+    {
+      "key" : "Tower Wars",
+      "value" : ""
+    },
+    {
+      "key" : "Tutorials",
+      "value" : ""
+    },
+    {
+      "key" : "1: Basics",
+      "value" : ""
+    },
+    {
+      "key" : "2: Defense",
+      "value" : ""
+    },
+    {
+      "key" : "3: Line Wars",
+      "value" : ""
+    },
+    {
+      "key" : "Global Chat",
+      "value" : ""
+    },
+    {
+      "key" : "Say...",
+      "value" : ""
+    },
+    {
+      "key" : "Type message...",
+      "value" : ""
+    },
+    {
+      "key" : "Create Game",
+      "value" : ""
+    },
+    {
+      "key" : "Game Name",
+      "value" : ""
+    },
+    {
+      "key" : "Game Mode",
+      "value" : ""
+    },
+    {
+      "key" : "Player Count",
+      "value" : ""
+    },
+    {
+      "key" : "Randomize Positions",
+      "value" : ""
+    },
+    {
+      "key" : "Life",
+      "value" : ""
+    },
+    {
+      "key" : "Start Resources",
+      "value" : ""
+    },
+    {
+      "key" : "Start Income",
+      "value" : ""
+    },
+    {
+      "key" : "Income Frequency",
+      "value" : ""
+    },
+    {
+      "key" : "Grace Period",
+      "value" : ""
+    },
+    {
+      "key" : "Scenario",
+      "value" : ""
+    },
+    {
+      "key" : "Difficulty",
+      "value" : ""
+    },
+    {
+      "key" : "Duration",
+      "value" : ""
+    },
+    {
+      "key" : "Author",
+      "value" : ""
+    },
+    {
+      "key" : "Choose Tutorial",
+      "value" : ""
+    },
+    {
+      "key" : "LOCK SETTINGS and CREATE GAME",
+      "value" : ""
+    },
+    {
+      "key" : "Back",
+      "value" : ""
+    },
+    {
+      "key" : "Information",
+      "value" : ""
+    },
+    {
+      "key" : "Public game",
+      "value" : ""
+    },
+    {
+      "key" : "Private game",
+      "value" : ""
+    },
+    {
+      "key" : "Starting Resources",
+      "value" : ""
+    },
+    {
+      "key" : "Random Positions",
+      "value" : ""
+    },
+    {
+      "key" : "Choose a loadout",
+      "value" : ""
+    },
+    {
+      "key" : "Edit",
+      "value" : ""
+    },
+    {
+      "key" : "Play",
+      "value" : ""
+    },
+    {
+      "key" : "Ready",
+      "value" : ""
+    },
+    {
+      "key" : "Lobby",
+      "value" : ""
+    },
+    {
+      "key" : "Lane",
+      "value" : ""
+    },
+    {
+      "key" : "Player",
+      "value" : ""
+    },
+    {
+      "key" : "Ping",
+      "value" : ""
+    },
+    {
+      "key" : "Invite Friends",
+      "value" : ""
+    },
+    {
+      "key" : "Move To",
+      "value" : ""
+    },
+    {
+      "key" : "Swap",
+      "value" : ""
+    },
+    {
+      "key" : "Kick",
+      "value" : ""
+    },
+    {
+      "key" : "Friend Request",
+      "value" : ""
+    },
+    {
+      "key" : "Add Bot",
+      "value" : ""
+    },
+    {
+      "key" : "Very  Easy",
+      "value" : ""
+    },
+    {
+      "key" : "Very  Hard",
+      "value" : ""
+    },
+    {
+      "key" : "Fill Bots",
+      "value" : ""
+    },
+    {
+      "key" : "Player Name",
+      "value" : ""
+    },
+    {
+      "key" : "Invite",
+      "value" : ""
+    },
+    {
+      "key" : "Cancel",
+      "value" : ""
+    },
+    {
+      "key" : "Joining game...",
+      "value" : ""
+    },
+    {
+      "key" : "Join Game",
+      "value" : ""
+    },
+    {
+      "key" : "Income",
+      "value" : ""
+    },
+    {
+      "key" : "Players",
+      "value" : ""
+    },
+    {
+      "key" : "Bots",
+      "value" : ""
+    },
+    {
+      "key" : "Location",
+      "value" : ""
+    },
+    {
+      "key" : "There are currently no open games, but you can start a game of your own.",
+      "value" : ""
+    },
+    {
+      "key" : "Scoreboard",
+      "value" : ""
+    },
+    {
+      "key" : "Line Wars",
+      "value" : ""
+    },
+    {
+      "key" : "Rank",
+      "value" : ""
+    },
+    {
+      "key" : "Name",
+      "value" : ""
+    },
+    {
+      "key" : "Score",
+      "value" : ""
+    },
+    {
+      "key" : "Wins",
+      "value" : ""
+    },
+    {
+      "key" : "Global",
+      "value" : ""
+    },
+    {
+      "key" : "Friends",
+      "value" : ""
+    },
+    {
+      "key" : "Restore Defaults",
+      "value" : ""
+    },
+    {
+      "key" : "Apply Settings",
+      "value" : ""
+    },
+    {
+      "key" : "Options",
+      "value" : ""
+    },
+    {
+      "key" : "General",
+      "value" : ""
+    },
+    {
+      "key" : "Graphics",
+      "value" : ""
+    },
+    {
+      "key" : "Audio",
+      "value" : ""
+    },
+    {
+      "key" : "Keybindings",
+      "value" : ""
+    },
+    {
+      "key" : "Structures",
+      "value" : ""
+    },
+    {
+      "key" : "Action Mode Behaviours",
+      "value" : ""
+    },
+    {
+      "key" : "Pool menu Collapse Behaviour",
+      "value" : ""
+    },
+    {
+      "key" : "Structure Healthbar State",
+      "value" : ""
+    },
+    {
+      "key" : "Monsters",
+      "value" : ""
+    },
+    {
+      "key" : "Monster Healthbar State",
+      "value" : ""
+    },
+    {
+      "key" : "User Interface",
+      "value" : ""
+    },
+    {
+      "key" : "In-Game Announcements",
+      "value" : ""
+    },
+    {
+      "key" : "User Interface Scale",
+      "value" : ""
+    },
+    {
+      "key" : "Reset",
+      "value" : ""
+    },
+    {
+      "key" : "UI Positions",
+      "value" : ""
+    },
+    {
+      "key" : "Menu Tooltips Enabled",
+      "value" : ""
+    },
+    {
+      "key" : "Game Tooltips Enabled",
+      "value" : ""
+    },
+    {
+      "key" : "Sticky to rows and columns",
+      "value" : ""
+    },
+    {
+      "key" : "Camera",
+      "value" : ""
+    },
+    {
+      "key" : "Grid View Mode",
+      "value" : ""
+    },
+    {
+      "key" : "Pan Speed",
+      "value" : ""
+    },
+    {
+      "key" : "Allow Edge Panning",
+      "value" : ""
+    },
+    {
+      "key" : "Pan Threshold",
+      "value" : ""
+    },
+    {
+      "key" : "Zoom Speed",
+      "value" : ""
+    },
+    {
+      "key" : "Grahpics",
+      "value" : ""
+    },
+    {
+      "key" : "Display Resolution",
+      "value" : ""
+    },
+    {
+      "key" : "Display",
+      "value" : ""
+    },
+    {
+      "key" : "Quality",
+      "value" : ""
+    },
+    {
+      "key" : "Fullscreen",
+      "value" : ""
+    },
+    {
+      "key" : "Enable VSync",
+      "value" : ""
+    },
+    {
+      "key" : "Master Volume",
+      "value" : ""
+    },
+    {
+      "key" : "Music Volume",
+      "value" : ""
+    },
+    {
+      "key" : "Ambient Volume",
+      "value" : ""
+    },
+    {
+      "key" : "SFX Volume",
+      "value" : ""
+    },
+    {
+      "key" : "Loadout List",
+      "value" : ""
+    },
+    {
+      "key" : "New Loadout",
+      "value" : ""
+    },
+    {
+      "key" : "Clone Loadout",
+      "value" : ""
+    },
+    {
+      "key" : "Loadout Name",
+      "value" : ""
+    },
+    {
+      "key" : "Loadout Name...",
+      "value" : ""
+    },
+    {
+      "key" : "Selected Monsters",
+      "value" : ""
+    },
+    {
+      "key" : "Available Monsters",
+      "value" : ""
+    },
+    {
+      "key" : "Life Damage",
+      "value" : ""
+    },
+    {
+      "key" : "Armor",
+      "value" : ""
+    },
+    {
+      "key" : "Bounty",
+      "value" : ""
+    },
+    {
+      "key" : "Speed",
+      "value" : ""
+    },
+    {
+      "key" : "The Line Tower Wars mode, where you combat other players in free for all battle.",
+      "value" : ""
+    },
+    {
+      "key" : "Classic Tower Defense, where you defend against waves of monsters.",
+      "value" : ""
+    },
+    {
+      "key" : "Test towers and monsters in any way you like. Monsters spawn on your own lane.",
+      "value" : ""
+    },
+    {
+      "key" : "Get to know the game through a few tutorials.",
+      "value" : ""
+    },
+    {
+      "key" : "Learn the basics of the game.\nExplains basic UI elements, navigation and basic game play.",
+      "value" : ""
+    },
+    {
+      "key" : "Learn how to build and upgrade defenses.",
+      "value" : ""
+    },
+    {
+      "key" : "Learn the Line Tower Wars game play.",
+      "value" : ""
+    },
+    {
+      "key" : "The game name that others can see in the lobby (if public) and when having joined.",
+      "value" : ""
+    },
+    {
+      "key" : "The selected game mode.",
+      "value" : ""
+    },
+    {
+      "key" : "How many players this game allows at maximum.",
+      "value" : ""
+    },
+    {
+      "key" : "Whether the actual positions of players in the game are randomized after starting the game. \nIf not, the position in the lobby controls the lane in the game.",
+      "value" : ""
+    },
+    {
+      "key" : "How much life each player has.",
+      "value" : ""
+    },
+    {
+      "key" : "How many resources players start with.",
+      "value" : ""
+    },
+    {
+      "key" : "How much income players start with.",
+      "value" : ""
+    },
+    {
+      "key" : "How often income is given out.",
+      "value" : ""
+    },
+    {
+      "key" : "The time delay before monsters can be spawned.",
+      "value" : ""
+    },
+    {
+      "key" : "The scenario to play",
+      "value" : ""
+    },
+    {
+      "key" : "The proposed difficulty of the Scenario",
+      "value" : ""
+    },
+    {
+      "key" : "The duration of the Scenario (HH:mm:ss)",
+      "value" : ""
+    },
+    {
+      "key" : "The creator of the Scenario",
+      "value" : ""
+    },
+    {
+      "key" : "Click to lock the game settings (they cannot be changed later) and create the game online. \nIf the game is public, other players can join.\nIf not, you must invite players or add bots yourself.",
+      "value" : ""
+    },
+    {
+      "key" : "Public games show up in the list of games to join, and can thus be found and joined by anyone online.",
+      "value" : ""
+    },
+    {
+      "key" : "Private games are not visible to anyone online, and you will have to invite the players manually or play against bots.",
+      "value" : ""
+    },
+    {
+      "key" : "Edit loadouts or create new ones",
+      "value" : ""
+    },
+    {
+      "key" : "Click to invite a Steam friend to the game.",
+      "value" : ""
+    },
+    {
+      "key" : "Click to fill all vacant positions with bots.",
+      "value" : ""
+    },
+    {
+      "key" : "Click to invite the selected Steam friends to the game.",
+      "value" : ""
+    },
+    {
+      "key" : "There are three ways to execute structure actions (selling, upgrading and pipetting).\n'Simple' means that the action mode is exited upon execution.\n'Sticky' means that the action mode is only exited by manually right-clicking.\n'Toggle' means that the action mode is only engaged while keeping the shortcut button down.",
+      "value" : ""
+    },
+    {
+      "key" : "There are two ways the structure pool can behave upon collapse.\n'Show Researched' means that all researched structures will be visible.\n'Show Researched Fixed' means the same as the above, but the button position is fixed.\n'Hide All' means that everything is hidden.",
+      "value" : ""
+    },
+    {
+      "key" : "Healthbars can be set to three different modes.\n'Hidden' means that no healthbars are shown.\n'OnlyDamaged' means that only damaged entities show healthbars.\n'Visible' means that healthbars are always displayed.",
+      "value" : ""
+    },
+    {
+      "key" : "There are two ways the creature pool can behave upon collapse.\n'Show Researched' means that all researched creatures will be visible.\n'Show Researched Fixed' means the same as the above, but the button position is fixed.\n'Hide All' means that everything is hidden.",
+      "value" : ""
+    },
+    {
+      "key" : "The amount of in-game feedback received in the UI can be adjusted through three different modes.\n'None' implies that no feedback is received at all. \n'Important' means that only the most important feedback is provided, such as losing a health point.\n'Info' covers most of the relevant feedback, such as spawn and build feedback.",
+      "value" : ""
+    },
+    {
+      "key" : "The User Interface (UI) scale controls the size of all in-game UI elements, such as buttons, displays and timers. \nIt does not affect the menus. \nIt is automatically set to ensure a constant physical UI size, regardless of screen size. \nHowever, it can be modified manually if desired.",
+      "value" : ""
+    },
+    {
+      "key" : "Resets the UI scale to a dynamically evaluated value,\nbased on the current screen resolution, which is the default.",
+      "value" : ""
+    },
+    {
+      "key" : "Resets the position of UI elements that have been repositioned.",
+      "value" : ""
+    },
+    {
+      "key" : "Whether tooltips in the menu are enabled.",
+      "value" : ""
+    },
+    {
+      "key" : "Whether tooltips in the game are enabled.",
+      "value" : ""
+    },
+    {
+      "key" : "Whether the mouse sticks to rows or columns when drag-placing structures. \nIf checked, this prevents accidentally placing structures wrongly when dragging lines (rows or columns) of structures.",
+      "value" : ""
+    },
+    {
+      "key" : "The build grid can be set to three different behaviours.\n'Never' means that the build grid is never shown.\n'WhileBuilding' shows the grid only while placing new structures.\n'Always' means that the build grid is always shown.",
+      "value" : ""
+    },
+    {
+      "key" : "How fast the camera can be moved.",
+      "value" : ""
+    },
+    {
+      "key" : "Camera edge panning occurs when the mouse cursor is moved near \na border of the screen, causing the camera to move in that direction.",
+      "value" : ""
+    },
+    {
+      "key" : "The distance from the screen border where camera panning occurs.",
+      "value" : ""
+    },
+    {
+      "key" : "How fast camera zooming happens.",
+      "value" : ""
+    },
+    {
+      "key" : "The desired display resolution and frequency.",
+      "value" : ""
+    },
+    {
+      "key" : "The desired monitor.",
+      "value" : ""
+    },
+    {
+      "key" : "The graphical quality used for rendering in-game. Reduce to increase framerate.",
+      "value" : ""
+    },
+    {
+      "key" : "Whether the game is displayed in fullscreen mode.",
+      "value" : ""
+    },
+    {
+      "key" : "Vertical synchronization (VSync) can be disabled to decouple the game's frame rate from the monitor's update frequency. \nIf you experience graphical issues, this may help.",
+      "value" : ""
+    },
+    {
+      "key" : "Controls all volume globally. Use to mute all sound.",
+      "value" : ""
+    },
+    {
+      "key" : "Controls the volume of all music.",
+      "value" : ""
+    },
+    {
+      "key" : "Ambient is all the 'environmental' sounds, such as the sound of wind. This controls the volume of all ambient sound.",
+      "value" : ""
+    },
+    {
+      "key" : "Sound effects (SFX) are all the in-game sounds used, such as guns firing and monsters dying. This controls all SFX volume.",
+      "value" : ""
+    },
+    {
+      "key" : "Left-Click a binding to assign/reassign it.\nRight-Click a binding to clear it.",
+      "value" : ""
+    },
+    {
+      "key" : "Creates a new loadout which you can name and set up.",
+      "value" : ""
+    },
+    {
+      "key" : "Clones the currently selected loadout.",
+      "value" : ""
+    },
+    {
+      "key" : "The name of the loadout.",
+      "value" : ""
+    },
+    {
+      "key" : "Monsters available in the currently selected loadout.\n- Drag to rearrange monsters\n- Right-click to clear",
+      "value" : ""
+    },
+    {
+      "key" : "The number of monsters unlocked at the start.\nMonsters are only unlocked if the starting resources allow for it.",
+      "value" : ""
+    },
+    {
+      "key" : "The monsters you can add to your loadout.\n- Drag to the selected section to add or replace.\n- Click to add to the first available slot",
+      "value" : ""
+    },
+    {
+      "key" : "Click to reconnect to the game server",
+      "value" : ""
+    },
+    {
+      "key" : "System",
+      "value" : ""
+    },
+    {
+      "key" : "Say",
+      "value" : ""
+    },
+    {
+      "key" : "Unavailable",
+      "value" : ""
+    },
+    {
+      "key" : "Visible",
+      "value" : ""
+    },
+    {
+      "key" : "Only Damaged",
+      "value" : ""
+    },
+    {
+      "key" : "Hidden",
+      "value" : ""
+    },
+    {
+      "key" : "Simple",
+      "value" : ""
+    },
+    {
+      "key" : "Sticky",
+      "value" : ""
+    },
+    {
+      "key" : "Toggle",
+      "value" : ""
+    },
+    {
+      "key" : "Show Researched",
+      "value" : ""
+    },
+    {
+      "key" : "Show Researched Fixed",
+      "value" : ""
+    },
+    {
+      "key" : "Hide All",
+      "value" : ""
+    },
+    {
+      "key" : "Nothing",
+      "value" : ""
+    },
+    {
+      "key" : "Important",
+      "value" : ""
+    },
+    {
+      "key" : "Info",
+      "value" : ""
+    },
+    {
+      "key" : "All",
+      "value" : ""
+    },
+    {
+      "key" : "Never",
+      "value" : ""
+    },
+    {
+      "key" : "While Building",
+      "value" : ""
+    },
+    {
+      "key" : "Always",
+      "value" : ""
+    },
+    {
+      "key" : "Please add at least one more player or bot.",
+      "value" : ""
+    },
+    {
+      "key" : "{0} seconds",
+      "value" : ""
+    },
+    {
+      "key" : "Bot ({0}) was added",
+      "value" : ""
+    },
+    {
+      "key" : "Starting...",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Your Income</b>\nThe amount added to your resources each income round.",
+      "value" : ""
+    },
+    {
+      "key" : "Current time scale.",
+      "value" : ""
+    },
+    {
+      "key" : "Slow down time.",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Spawned Monsters</b>\nThe number of monsters you have currently spawned.",
+      "value" : ""
+    },
+    {
+      "key" : "Speed up time.",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Your Life</b>\nIf this reaches 0, you are defeated.",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Your Resources</b>\nUsed to pay for buildings and spawn monsters.",
+      "value" : ""
+    },
+    {
+      "key" : "This is the player who is currently attacking you.",
+      "value" : ""
+    },
+    {
+      "key" : "This is the player you are currently attacking.",
+      "value" : ""
+    },
+    {
+      "key" : "Say:",
+      "value" : ""
+    },
+    {
+      "key" : "Send",
+      "value" : ""
+    },
+    {
+      "key" : "Assailant",
+      "value" : ""
+    },
+    {
+      "key" : "Target",
+      "value" : ""
+    },
+    {
+      "key" : "Damage",
+      "value" : ""
+    },
+    {
+      "key" : "Health",
+      "value" : ""
+    },
+    {
+      "key" : "Build cost",
+      "value" : ""
+    },
+    {
+      "key" : "Research cost",
+      "value" : ""
+    },
+    {
+      "key" : "Upgrade",
+      "value" : ""
+    },
+    {
+      "key" : "Sell",
+      "value" : ""
+    },
+    {
+      "key" : "Copy",
+      "value" : ""
+    },
+    {
+      "key" : "Selection",
+      "value" : ""
+    },
+    {
+      "key" : "Chat Log",
+      "value" : ""
+    },
+    {
+      "key" : "Game Overview",
+      "value" : ""
+    },
+    {
+      "key" : "Base",
+      "value" : ""
+    },
+    {
+      "key" : "Spawns",
+      "value" : ""
+    },
+    {
+      "key" : "Kills",
+      "value" : ""
+    },
+    {
+      "key" : "Status",
+      "value" : ""
+    },
+    {
+      "key" : "Leave Game",
+      "value" : ""
+    },
+    {
+      "key" : "[TAB] to Hide",
+      "value" : ""
+    },
+    {
+      "key" : "Leaks",
+      "value" : ""
+    },
+    {
+      "key" : "Total",
+      "value" : ""
+    },
+    {
+      "key" : "Restart",
+      "value" : ""
+    },
+    {
+      "key" : "Time Score",
+      "value" : ""
+    },
+    {
+      "key" : "Retry",
+      "value" : ""
+    },
+    {
+      "key" : "Resume",
+      "value" : ""
+    },
+    {
+      "key" : "View Chat Log",
+      "value" : ""
+    },
+    {
+      "key" : "Surrender",
+      "value" : ""
+    },
+    {
+      "key" : "Income and reinforcements",
+      "value" : ""
+    },
+    {
+      "key" : "Monster attack wave",
+      "value" : ""
+    },
+    {
+      "key" : "The locality of the structure - what it targets.",
+      "value" : ""
+    },
+    {
+      "key" : "The damage done per second.",
+      "value" : ""
+    },
+    {
+      "key" : "The hitpoints of the structure.",
+      "value" : ""
+    },
+    {
+      "key" : "The locality of the monster - how it navigates.",
+      "value" : ""
+    },
+    {
+      "key" : "The life taken from the player if the monster makes it through.",
+      "value" : ""
+    },
+    {
+      "key" : "The armor of the monster.",
+      "value" : ""
+    },
+    {
+      "key" : "The hitpoints of the monster.",
+      "value" : ""
+    },
+    {
+      "key" : "The shield of the monster.",
+      "value" : ""
+    },
+    {
+      "key" : "The income increase awarded for spawning this monster.",
+      "value" : ""
+    },
+    {
+      "key" : "The bounty awarded for killing this monster.",
+      "value" : ""
+    },
+    {
+      "key" : "The movement speed of the monster.",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Player health</b>\nIf this reaches zero, the player is defeated.",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Player income</b>\nThe amount added to the player's resources on the next income round.",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Player structure value</b>\nThe current total value of all structures, including upgrades.",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Spawned monsters</b>\nThe number of monsters currently spawned.",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Killed monsters</b>\nThe total number of monsters killed.",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Player status</b>\nThe status of the player (if any).",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Player health</b>\nEnd state of player health",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Player income</b>\nThe final income reached.",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Player structure value</b>\nThe total value of all structures built during the game, including upgrades.",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Player status</b>\nThe status of the player at the end of the game.",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Player health</b>\nIf this reaches zero, the player has lost.",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Kill Score</b>\nThe score gained from killing monsters.",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Structure Penalty</b>\nThe score penalty imposed by building defensive structures.",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Leak Penalty</b>\nThe score penalty from leaking (failing to kill) monsters.",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Total Score</b>\nThe total score.",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Time Score</b>\nScore factor calculated based on completion time.",
+      "value" : ""
+    },
+    {
+      "key" : "Sell the selected structure for {0} gold.",
+      "value" : ""
+    },
+    {
+      "key" : "Upgrade the selected structure for {0} gold over {1} seconds.",
+      "value" : ""
+    },
+    {
+      "key" : "Upgrade the selected structure.",
+      "value" : ""
+    },
+    {
+      "key" : "Sell the selected structure.",
+      "value" : ""
+    },
+    {
+      "key" : "Select the blueprint of the selected structure.",
+      "value" : ""
+    },
+    {
+      "key" : "Upgrade the selected structures.",
+      "value" : ""
+    },
+    {
+      "key" : "Sell the selected structures.",
+      "value" : ""
+    },
+    {
+      "key" : "Show all monsters.",
+      "value" : ""
+    },
+    {
+      "key" : "Upgrade this monster.",
+      "value" : ""
+    },
+    {
+      "key" : "Machine Guns",
+      "value" : ""
+    },
+    {
+      "key" : "Frost Cannons",
+      "value" : ""
+    },
+    {
+      "key" : "Electrical Towers",
+      "value" : ""
+    },
+    {
+      "key" : "Flamethrowers",
+      "value" : ""
+    },
+    {
+      "key" : "Concrete Wall",
+      "value" : ""
+    },
+    {
+      "key" : "Reinforced Wall",
+      "value" : ""
+    },
+    {
+      "key" : "Tesla Coil AA Towers",
+      "value" : ""
+    },
+    {
+      "key" : "Quadmount AAs",
+      "value" : ""
+    },
+    {
+      "key" : "Freezers",
+      "value" : ""
+    },
+    {
+      "key" : "Sky Hooks",
+      "value" : ""
+    },
+    {
+      "key" : "Diesel Towers",
+      "value" : ""
+    },
+    {
+      "key" : "Workshops",
+      "value" : ""
+    },
+    {
+      "key" : "Flak 88 AA",
+      "value" : ""
+    },
+    {
+      "key" : "Show all structures.",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Your Resources</b>\nUsed to pay for defenses and spawning monsters.",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Your Income</b>\nThe amount added to your funds each income round.",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Income round</b>\n{0:F0} seconds until the next income round.",
+      "value" : ""
+    },
+    {
+      "key" : "Razorlegs",
+      "value" : ""
+    },
+    {
+      "key" : "Ground",
+      "value" : ""
+    },
+    {
+      "key" : "Lvl",
+      "value" : ""
+    },
+    {
+      "key" : "Excels in fast movement, but cannot withstand many blows. Additionally, may overshoot turns when moving with high speed.",
+      "value" : ""
+    },
+    {
+      "key" : "Hide locked monsters.",
+      "value" : ""
+    },
+    {
+      "key" : "Research this monster.",
+      "value" : ""
+    },
+    {
+      "key" : "Moleclaw",
+      "value" : ""
+    },
+    {
+      "key" : "Digs its way under enemy defenses. Can only dig in straight lines, and will resurface at first opportunity.",
+      "value" : ""
+    },
+    {
+      "key" : "Gloomglider",
+      "value" : ""
+    },
+    {
+      "key" : "Air",
+      "value" : ""
+    },
+    {
+      "key" : "Flies above any defenses directly towards its target.",
+      "value" : ""
+    },
+    {
+      "key" : "Barfblob",
+      "value" : ""
+    },
+    {
+      "key" : "Fully heals the first damaged ground monster that it encounters, but can only do so once.",
+      "value" : ""
+    },
+    {
+      "key" : "Cracklecloud",
+      "value" : ""
+    },
+    {
+      "key" : "Disables towers that it passes over temporarily by overloading them with lightning electricity.",
+      "value" : ""
+    },
+    {
+      "key" : "Magmaback",
+      "value" : ""
+    },
+    {
+      "key" : "Heals a high percentage of fire damage received. A monster born of fire, burning and moving slowly with lava.",
+      "value" : ""
+    },
+    {
+      "key" : "Snowripper",
+      "value" : ""
+    },
+    {
+      "key" : "Must receive fire damage before taking other types of damage. A monster born of ice moving through the lifeless landscape.",
+      "value" : ""
+    },
+    {
+      "key" : "Bumblebeast",
+      "value" : ""
+    },
+    {
+      "key" : "Hard to kill, due to an overabundance of health.",
+      "value" : ""
+    },
+    {
+      "key" : "Splittercritter",
+      "value" : ""
+    },
+    {
+      "key" : "Breeds smaller critters inside itself. Upon death unleashes the smaller monsters as they burst out.",
+      "value" : ""
+    },
+    {
+      "key" : "Grumperjumper",
+      "value" : ""
+    },
+    {
+      "key" : "Jumps over walls and towers. Becomes airborne while jumping.",
+      "value" : ""
+    },
+    {
+      "key" : "Hide locked structures.",
+      "value" : ""
+    },
+    {
+      "key" : "Research this structure.",
+      "value" : ""
+    },
+    {
+      "key" : "Wall",
+      "value" : ""
+    },
+    {
+      "key" : "Steel Wall",
+      "value" : ""
+    },
+    {
+      "key" : "Steel wall providing basic protection against attackers.",
+      "value" : ""
+    },
+    {
+      "key" : "The reinforced wall has been improved through massive steel girders, in order to hold back monsters of any magnitude.",
+      "value" : ""
+    },
+    {
+      "key" : "Electrical Tower",
+      "value" : ""
+    },
+    {
+      "key" : "Zaps ground monsters with electricity. Can be linked together with other same-level towers to create a lightning stream that damages monsters as they pass through.",
+      "value" : ""
+    },
+    {
+      "key" : "Tesla Coil AA",
+      "value" : ""
+    },
+    {
+      "key" : "Zaps flying monsters with electricity.",
+      "value" : ""
+    },
+    {
+      "key" : "Quadmount AA",
+      "value" : ""
+    },
+    {
+      "key" : "Anti-air weapon using shells to fight flying monsters with physical damage.",
+      "value" : ""
+    },
+    {
+      "key" : "Mortar",
+      "value" : ""
+    },
+    {
+      "key" : "Long range, high-damage weapon, although reloading takes a while. Has a large area of effect, dealing damage to many monsters simultaneously.",
+      "value" : ""
+    },
+    {
+      "key" : "Frost Cannon",
+      "value" : ""
+    },
+    {
+      "key" : "Fires streams of frost towards its ground targets, dealing a small area of effect damage to smaller groups simultaneously.",
+      "value" : ""
+    },
+    {
+      "key" : "Flamethrower",
+      "value" : ""
+    },
+    {
+      "key" : "Fires streams of flame towards its ground targets, dealing a small area of effect damage to smaller groups simultaneously.",
+      "value" : ""
+    },
+    {
+      "key" : "Anti-air weapon using 88mm flak shells in order to deal damage to large groups of flying monsters simultaneously.",
+      "value" : ""
+    },
+    {
+      "key" : "Utility",
+      "value" : ""
+    },
+    {
+      "key" : "Workshop",
+      "value" : ""
+    },
+    {
+      "key" : "Repairs nearby structures when they are damaged.",
+      "value" : ""
+    },
+    {
+      "key" : "Diesel Tower",
+      "value" : ""
+    },
+    {
+      "key" : "Drenches its ground targets in diesel, rendering them more vulnerable to fire and a damage over time burning effect, if receiving fire damage. Has a small area of effect, drenching multiple targets.",
+      "value" : ""
+    },
+    {
+      "key" : "Freezer",
+      "value" : ""
+    },
+    {
+      "key" : "Slows ground monster movement by freezing them. Has a small area of effect, slowing multiple monsters at the same time.",
+      "value" : ""
+    },
+    {
+      "key" : "Sky Hook",
+      "value" : ""
+    },
+    {
+      "key" : "Hooks a flying monster with a large harpoon, binding it to the ground and enabling ground-based weapons to target it temporarily.",
+      "value" : ""
+    },
+    {
+      "key" : "Teleporter",
+      "value" : ""
+    },
+    {
+      "key" : "Teleports monsters away from your base. Can only teleport ground monsters that are a maximum of one level above this tower.",
+      "value" : ""
+    },
+    {
+      "key" : "Machine Gun",
+      "value" : ""
+    },
+    {
+      "key" : "Rapidly deals physical damage to ground units.",
+      "value" : ""
+    },
+    {
+      "key" : "level",
+      "value" : ""
+    },
+    {
+      "key" : "Owner",
+      "value" : ""
+    },
+    {
+      "key" : "A cheap concrete wall that provides only minimal protection against attackers. Can be burned.",
+      "value" : ""
+    },
+    {
+      "key" : "Rifteye",
+      "value" : ""
+    },
+    {
+      "key" : "Unlock the '{0}' to upgrade.",
+      "value" : ""
+    },
+    {
+      "key" : "physical",
+      "value" : ""
+    },
+    {
+      "key" : "{0}% vulnerability against {1} damage",
+      "value" : ""
+    },
+    {
+      "key" : "ice",
+      "value" : ""
+    },
+    {
+      "key" : "{0}% resistance against {1} damage",
+      "value" : ""
+    },
+    {
+      "key" : "lightning",
+      "value" : ""
+    },
+    {
+      "key" : "Cancel research.",
+      "value" : ""
+    },
+    {
+      "key" : "Wardworm",
+      "value" : ""
+    },
+    {
+      "key" : "Guardhorn",
+      "value" : ""
+    },
+    {
+      "key" : "Boombelly",
+      "value" : ""
+    },
+    {
+      "key" : "Gobblesmasher",
+      "value" : ""
+    },
+    {
+      "key" : "fire",
+      "value" : ""
+    },
+    {
+      "key" : "Fatquack",
+      "value" : ""
+    },
+    {
+      "key" : "Slobbertail",
+      "value" : ""
+    },
+    {
+      "key" : "Rifteyes",
+      "value" : ""
+    },
+    {
+      "key" : "Guardhorns",
+      "value" : ""
+    },
+    {
+      "key" : "Gemjugglers",
+      "value" : ""
+    },
+    {
+      "key" : "Wardworms",
+      "value" : ""
+    },
+    {
+      "key" : "Fatquacks",
+      "value" : ""
+    },
+    {
+      "key" : "Splittercritters",
+      "value" : ""
+    },
+    {
+      "key" : "Magmabacks",
+      "value" : ""
+    },
+    {
+      "key" : "Bumblebeasts",
+      "value" : ""
+    },
+    {
+      "key" : "Boombellys",
+      "value" : ""
+    },
+    {
+      "key" : "Gobblesmashers",
+      "value" : ""
+    },
+    {
+      "key" : "Munchmonsters",
+      "value" : ""
+    },
+    {
+      "key" : "Crackleclouds",
+      "value" : ""
+    },
+    {
+      "key" : "Barfblobs",
+      "value" : ""
+    },
+    {
+      "key" : "Gloomgliders",
+      "value" : ""
+    },
+    {
+      "key" : "Hellmasks",
+      "value" : ""
+    },
+    {
+      "key" : "Grumperjumpers",
+      "value" : ""
+    },
+    {
+      "key" : "Gemjuggler",
+      "value" : ""
+    },
+    {
+      "key" : "Very special monster that affords rich bounty. Increases its bounty output the longer it lives, capping bounty at its cost price.",
+      "value" : ""
+    },
+    {
+      "key" : "Heals nearby units by providing a Heal over Time effect.",
+      "value" : ""
+    },
+    {
+      "key" : "Attacks towers and walls with violent acid regurgitation.",
+      "value" : ""
+    },
+    {
+      "key" : "Explodes in an area around itself upon death, if previously ignited by fire. Takes damage over time while ignited.",
+      "value" : ""
+    },
+    {
+      "key" : "Protects nearby units by granting an armor increase against physical, fire, ice and lightning damage.",
+      "value" : ""
+    },
+    {
+      "key" : "Acts as a portal that other monsters can spawn from. Only ground-based lower or same level monsters can spawn from it. The Rifteye needs to charge up stacks over time to spawn monsters.",
+      "value" : ""
+    },
+    {
+      "key" : "Regenerates the shield of nearby monsters, thus protecting them from incoming attacks temporarily.",
+      "value" : ""
+    },
+    {
+      "key" : "Hellmask",
+      "value" : ""
+    },
+    {
+      "key" : "Burns nearby monsters and structures as it moves.",
+      "value" : ""
+    },
+    {
+      "key" : "Munchmonster",
+      "value" : ""
+    },
+    {
+      "key" : "Same or lower level monsters are absorbed into it, carrying them until death. Takes to the sky when full.",
+      "value" : ""
+    },
+    {
+      "key" : "The Void",
+      "value" : ""
+    },
+    {
+      "key" : "Unleash the wave NOW!",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Your Resources</b>\nUsed to pay for defenses.",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Your Income</b>\nThe amount added to your funds on the next wave.",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Monsters Alive</b>\nThe number of monsters alive in the arena.",
+      "value" : ""
+    },
+    {
+      "key" : "Retry the scenario.",
+      "value" : ""
+    },
+    {
+      "key" : "Wave {0}",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Income Timer</b>\n{0:F0} seconds until the next income.",
+      "value" : ""
+    },
+    {
+      "key" : "No more rounds.",
+      "value" : ""
+    },
+    {
+      "key" : "Player ({0}) won the game!",
+      "value" : ""
+    },
+    {
+      "key" : "[{0}] to Hide",
+      "value" : ""
+    },
+    {
+      "key" : "Victory",
+      "value" : ""
+    },
+    {
+      "key" : "{0} Won!",
+      "value" : ""
+    },
+    {
+      "key" : "at",
+      "value" : ""
+    },
+    {
+      "key" : "Overview",
+      "value" : ""
+    },
+    {
+      "key" : "Click or press space to continue...",
+      "value" : ""
+    },
+    {
+      "key" : "Pan to continue...",
+      "value" : ""
+    },
+    {
+      "key" : "Select the wall blueprint to continue...",
+      "value" : ""
+    },
+    {
+      "key" : "Build walls to continue...",
+      "value" : ""
+    },
+    {
+      "key" : "Select the machine gun blueprint to continue...",
+      "value" : ""
+    },
+    {
+      "key" : "Build Machine Guns to continue...",
+      "value" : ""
+    },
+    {
+      "key" : "Welcome to the <b>Unleash</b> Tutorial.",
+      "value" : ""
+    },
+    {
+      "key" : "This is your arena.",
+      "value" : ""
+    },
+    {
+      "key" : "Pan the camera around the arena using the keys <#009900>{0}</color>, <#009900>{1}</color>, <#009900>{2}</color>, <#009900>{3}</color>.",
+      "value" : ""
+    },
+    {
+      "key" : "Or by using the <sprite=0> at the edges of your screen (Toggle <#009900>{0}</color>).",
+      "value" : ""
+    },
+    {
+      "key" : "Finally, you can click the <b>Minimap</b> to quickly navigate around the arena.",
+      "value" : ""
+    },
+    {
+      "key" : "Navigate to the top of the lane now.",
+      "value" : ""
+    },
+    {
+      "key" : "Monsters will spawn from this <b>Spawn Gate</b>.\nYour task is to defeat them before they reach the bottom of your lane.",
+      "value" : ""
+    },
+    {
+      "key" : "Let's see where they are going...",
+      "value" : ""
+    },
+    {
+      "key" : "If a monster reaches this <b>Life Gate</b>, you will lose life.",
+      "value" : ""
+    },
+    {
+      "key" : "Your life is shown in the bottom left corner of the section below.",
+      "value" : ""
+    },
+    {
+      "key" : "This info panel also contains information about your available gold resources, your income and game mode specific details.",
+      "value" : ""
+    },
+    {
+      "key" : "To defend against monsters, you need to build defenses.",
+      "value" : ""
+    },
+    {
+      "key" : "Let's build some...",
+      "value" : ""
+    },
+    {
+      "key" : "Click <sprite=1> on the wall icon to select it.\nThen build two rows of walls in the marked areas.",
+      "value" : ""
+    },
+    {
+      "key" : "<#009900>{0}/20 completed</color>",
+      "value" : ""
+    },
+    {
+      "key" : "Excellent! Now click <sprite=2> to clear the selected structure.",
+      "value" : ""
+    },
+    {
+      "key" : "As you can see, there must always be a path from the top of the lane to the bottom.",
+      "value" : ""
+    },
+    {
+      "key" : "Next, build a few <b>Machine Guns</b> to defend.\nYou have 15 seconds till the next attack.",
+      "value" : ""
+    },
+    {
+      "key" : "<#009900>{0}/6 completed</color>",
+      "value" : ""
+    },
+    {
+      "key" : "Here they come...",
+      "value" : ""
+    },
+    {
+      "key" : "You can hold <sprite=2> and move the mouse to rotate the camera.",
+      "value" : ""
+    },
+    {
+      "key" : "You can zoom in and out using <sprite=3>.",
+      "value" : ""
+    },
+    {
+      "key" : "You got them all, congratulations!",
+      "value" : ""
+    },
+    {
+      "key" : "That concludes the first tutorial.",
+      "value" : ""
+    },
+    {
+      "key" : "Select a <b>Bumblebeast</b> to continue...",
+      "value" : ""
+    },
+    {
+      "key" : "Display all structures to continue...",
+      "value" : ""
+    },
+    {
+      "key" : "Research the <b>Electrical Tower</b> to continue...",
+      "value" : ""
+    },
+    {
+      "key" : "Build 6 <b>Electrical Towers</b> to continue...",
+      "value" : ""
+    },
+    {
+      "key" : "Select a bigger <b>Bumblebeast</b> to continue...",
+      "value" : ""
+    },
+    {
+      "key" : "Select an <b>Electrical Tower</b> to continue...",
+      "value" : ""
+    },
+    {
+      "key" : "Upgrade an <b>Electrical Tower</b> to continue...",
+      "value" : ""
+    },
+    {
+      "key" : "Research the <b>Tesla Coil</b> to continue...",
+      "value" : ""
+    },
+    {
+      "key" : "Build <b>Tesla Coils</b> to continue...",
+      "value" : ""
+    },
+    {
+      "key" : "Welcome to the <b>Defense</b> Tutorial.",
+      "value" : ""
+    },
+    {
+      "key" : "We are under attack! We need to know what is attacking us.",
+      "value" : ""
+    },
+    {
+      "key" : "<b>Towers</b>, <b>Walls</b> and <b>Monsters</b> can all be selected, in order to view details about them.",
+      "value" : ""
+    },
+    {
+      "key" : "Select any of the <b>Bumblebeast</b> monsters, currently moving on your arena now.",
+      "value" : ""
+    },
+    {
+      "key" : "The description card for a monster shows the most relevant stats about the monster, including its health, level, resistances and vulnerabilities.",
+      "value" : ""
+    },
+    {
+      "key" : "This tanky <b>Bumblebeast</b> monster has a resistance towards physical damage, taking only 90% of physical damage.",
+      "value" : ""
+    },
+    {
+      "key" : "Unfortunately, our <b>Machine Guns</b> are having a hard time damaging the <b>Bumblebeasts</b> enough.",
+      "value" : ""
+    },
+    {
+      "key" : "However, the <b>Bumblebeast</b> is highly vulnerable to lightning damage, taking 300% of lightning damage.",
+      "value" : ""
+    },
+    {
+      "key" : "Right now only the researched structures are shown.\nTo show all available structures, click the plus button or press <#009900>{0}</color>.",
+      "value" : ""
+    },
+    {
+      "key" : "We need the <b>Electrical Tower</b> tower to combat the <b>Bumblebeasts</b>. Click the <b>Electrical Tower</b> button to research it now.",
+      "value" : ""
+    },
+    {
+      "key" : "Wait a short while for the research to complete...",
+      "value" : ""
+    },
+    {
+      "key" : "Click the researched <b>Electrical Tower</b> button to select it. Then build in the highlighted areas. <#009900>{0}/6 completed</color>",
+      "value" : ""
+    },
+    {
+      "key" : "Well done! Watch as the <b>Electrical Towers</b> make short work of those <b>Bumblebeasts</b>.",
+      "value" : ""
+    },
+    {
+      "key" : "New <b>Bumblebeasts</b> are already arriving!\nBut wait, some of them appear to be bigger. Let's check their description.",
+      "value" : ""
+    },
+    {
+      "key" : "The description card reveals that this <b>Bumblebeast</b> has been upgraded, so it is now level 2.",
+      "value" : ""
+    },
+    {
+      "key" : "Level 2 monsters have more health, so level 1 towers have a harder time dealing enough damage. Therefore, we need to upgrade our towers.",
+      "value" : ""
+    },
+    {
+      "key" : "In order to upgrade our towers, we must first select the tower or towers to upgrade. Select one of the <b>Electrical Towers</b> now.",
+      "value" : ""
+    },
+    {
+      "key" : "In the structure description card, there are three structure action buttons.",
+      "value" : ""
+    },
+    {
+      "key" : "Upgrade the <b>Electrical Tower</b> now, either by clicking the Upgrade button, or by using the <#009900>{0}</color> shortcut key. \n<size=60%>There are multiple shortcut key action modes available through the options.",
+      "value" : ""
+    },
+    {
+      "key" : "Cancel upgrade",
+      "value" : ""
+    },
+    {
+      "key" : "Great work! The upgraded <b>Electrical Tower</b> can damage the upgraded <b>Bumblebeasts</b> more effectively.",
+      "value" : ""
+    },
+    {
+      "key" : "Oh no! Those flying monsters are ignoring all our towers and walls. We have to build anti-air towers. Let's research a <b>Tesla Coil</b>.",
+      "value" : ""
+    },
+    {
+      "key" : "Now, let's build some <b>Tesla Coils</b> to take down those pesky flyers! Build <b>Tesla Coils</b> in the highlighted areas now.  <#009900>{0}/4 completed</color>",
+      "value" : ""
+    },
+    {
+      "key" : "Good job! Now let's watch them zap the flying monsters.",
+      "value" : ""
+    },
+    {
+      "key" : "All structures can be sold through the sell button or through the <#009900>{0}</color> shortcut key.",
+      "value" : ""
+    },
+    {
+      "key" : "Using the 'Copy' feature (shortcut: <#009900>{0}</color>) makes it easy and fast to build structures, based on the ones existing in the base already.",
+      "value" : ""
+    },
+    {
+      "key" : "Congratulations! You have completed the Defense tutorial.",
+      "value" : ""
+    },
+    {
+      "key" : "Display all Monsters to continue...",
+      "value" : ""
+    },
+    {
+      "key" : "Spawn to continue...",
+      "value" : ""
+    },
+    {
+      "key" : "Wait for upgrading to complete...",
+      "value" : ""
+    },
+    {
+      "key" : "Click or press space to go back to the menu.",
+      "value" : ""
+    },
+    {
+      "key" : "Welcome to the <b>Line Wars</b> tutorial.",
+      "value" : ""
+    },
+    {
+      "key" : "In the <b>Line Wars</b> game mode, you must defeat all opponents by spawning a variety of <b>Monsters</b> to overcome their defenses.",
+      "value" : ""
+    },
+    {
+      "key" : "At the same time you still need to <b>Defend</b> against the onslaught of your opponents.",
+      "value" : ""
+    },
+    {
+      "key" : "Looking at the <b>Minimap</b>, you will see that you now have an opponent on each side.",
+      "value" : ""
+    },
+    {
+      "key" : "You can check the status of your opponents at any time by holding <#009900>{0}</color>.",
+      "value" : ""
+    },
+    {
+      "key" : "You will only have one player attacking you at any point, namely the player on your left.\nInfo on your <b>Assailant</b> is found to the left of your player info panel.",
+      "value" : ""
+    },
+    {
+      "key" : "If we take a look at his arena, you can see that he is currently building up his defenses to defend against HIS assailant.",
+      "value" : ""
+    },
+    {
+      "key" : "If your assailant is defeated, the next in line (looking left) will take his place as your assailant.\n<size=26>(If you are the leftmost player, your assailant will be the rightmost player).",
+      "value" : ""
+    },
+    {
+      "key" : "On your right hand side is the player you are attacking.\nInfo on your <b>Target</b> is found to the right of your player info panel.",
+      "value" : ""
+    },
+    {
+      "key" : "Your target is also readying his defenses.",
+      "value" : ""
+    },
+    {
+      "key" : "To defeat him, you have 10 monsters at your bidding.",
+      "value" : ""
+    },
+    {
+      "key" : "Right now only the <b>Researched</b> monsters are shown.\nTo show all available Monsters, click the button or press <#009900>{0}</color>.",
+      "value" : ""
+    },
+    {
+      "key" : "Which 10 Monsters are available is controlled by the chosen Loadout.\nLoadouts are created and selected in the lobby.",
+      "value" : ""
+    },
+    {
+      "key" : "Seeing as your target only has physical damage towers built, let's hit him with a monster resilient to physical damage.",
+      "value" : ""
+    },
+    {
+      "key" : "Start research to continue..",
+      "value" : ""
+    },
+    {
+      "key" : "Locate the <b>Bumblebeast</b> and research it by clicking the research button.",
+      "value" : ""
+    },
+    {
+      "key" : "Once our Monster is researched, it will stack up charges up to a maximum.\nFor this monster the max is 30.",
+      "value" : ""
+    },
+    {
+      "key" : "Research is done!\nNow Spawn at least 4 <b>Bumblebeasts</b> by clicking the button or pressing <#009900>{0}</color>.",
+      "value" : ""
+    },
+    {
+      "key" : "Spawning monsters serves another important purpose. Each monster spawned increases your <#009900>income</color>.",
+      "value" : ""
+    },
+    {
+      "key" : "Your income determines how many resources you have available to spawn more monsters and build defenses.",
+      "value" : ""
+    },
+    {
+      "key" : "Your income increases your gold resources every time the income timer completes.",
+      "value" : ""
+    },
+    {
+      "key" : "So to increase your <#009900>income</color> you must <#009900>spawn</color> monsters.\nThis is central to winning!",
+      "value" : ""
+    },
+    {
+      "key" : "Your target has now built more defenses, but has not yet upgraded them.",
+      "value" : ""
+    },
+    {
+      "key" : "Start upgrade to continue..",
+      "value" : ""
+    },
+    {
+      "key" : "Upgrade your <b>Bumblebeasts</b> to the next level.",
+      "value" : ""
+    },
+    {
+      "key" : "Cancel upgrade.",
+      "value" : ""
+    },
+    {
+      "key" : "Monsters have <b>four levels</b>. With each level, spawning and upgrading monsters become increasingly expensive and time consuming.",
+      "value" : ""
+    },
+    {
+      "key" : "Upgrading takes a while. You can follow the progress on the Monster's button.",
+      "value" : ""
+    },
+    {
+      "key" : "Upgrading is done!\nNow assault your target with 4 of your upgraded monsters.",
+      "value" : ""
+    },
+    {
+      "key" : "That concludes the <b>Line Wars</b> tutorial.",
+      "value" : ""
+    },
+    {
+      "key" : "Are you sure you wish to quit Unleash?",
+      "value" : ""
+    },
+    {
+      "key" : "All Random",
+      "value" : ""
+    },
+    {
+      "key" : "Starter",
+      "value" : ""
+    },
+    {
+      "key" : "Are you sure you want to surrender?",
+      "value" : ""
+    },
+    {
+      "key" : "Are you sure you want to return to the lobby?",
+      "value" : ""
+    },
+    {
+      "key" : "Click for options...",
+      "value" : ""
+    },
+    {
+      "key" : "Europe",
+      "value" : ""
+    },
+    {
+      "key" : "USA",
+      "value" : ""
+    },
+    {
+      "key" : "Asia",
+      "value" : ""
+    },
+    {
+      "key" : "Monitor {0}",
+      "value" : ""
+    },
+    {
+      "key" : "Medium",
+      "value" : ""
+    },
+    {
+      "key" : "Ultra",
+      "value" : ""
+    },
+    {
+      "key" : "Offline",
+      "value" : ""
+    },
+    {
+      "key" : "Are you sure you want to kick '{0}'?",
+      "value" : ""
+    },
+    {
+      "key" : "Bot ({0}) was removed",
+      "value" : ""
+    },
+    {
+      "key" : "You have been removed from the room.",
+      "value" : ""
+    },
+    {
+      "key" : "A disconnection from the server occurred. Attempting to reconnect ...",
+      "value" : ""
+    },
+    {
+      "key" : "Return to Lobby",
+      "value" : ""
+    },
+    {
+      "key" : "Away",
+      "value" : ""
+    },
+    {
+      "key" : "Busy",
+      "value" : ""
+    },
+    {
+      "key" : "Looking to Play",
+      "value" : ""
+    },
+    {
+      "key" : "Looking to Trade",
+      "value" : ""
+    },
+    {
+      "key" : "Online",
+      "value" : ""
+    },
+    {
+      "key" : "The specified player was not found.",
+      "value" : ""
+    },
+    {
+      "key" : "Player ({0}) was not previously muted/ignored.",
+      "value" : ""
+    },
+    {
+      "key" : "Player ({0}) was already muted/ignored.",
+      "value" : ""
+    },
+    {
+      "key" : "Player ({0}) was muted/ignored successfully.",
+      "value" : ""
+    },
+    {
+      "key" : "Player ({0}) mute/ignore unsuccessful.",
+      "value" : ""
+    },
+    {
+      "key" : "Player ({0}) was unmuted/unignored successfully.",
+      "value" : ""
+    },
+    {
+      "key" : "Player ({0}) unmute/unignore was unsuccessful.",
+      "value" : ""
+    },
+    {
+      "key" : "There is noone to reply to.",
+      "value" : ""
+    },
+    {
+      "key" : "You cannot send private messages to yourself.",
+      "value" : ""
+    },
+    {
+      "key" : "Player ({0}) was defeated.",
+      "value" : ""
+    },
+    {
+      "key" : "Player ({0}) left the game.",
+      "value" : ""
+    },
+    {
+      "key" : "Player ({0}) was kicked",
+      "value" : ""
+    },
+    {
+      "key" : "Player ({0}) moved to slot {1}",
+      "value" : ""
+    },
+    {
+      "key" : "Player ({0}) swapped places with other player ({1})",
+      "value" : ""
+    },
+    {
+      "key" : "The game has begun... Unleash!",
+      "value" : ""
+    },
+    {
+      "key" : "Sends message to all other players",
+      "value" : ""
+    },
+    {
+      "key" : "Sends a private message to a specific player",
+      "value" : ""
+    },
+    {
+      "key" : "Replies to the sender of the last private message that you received",
+      "value" : ""
+    },
+    {
+      "key" : "Shows information about every command",
+      "value" : ""
+    },
+    {
+      "key" : "Ignores a player, so that you no longer see chat from that player",
+      "value" : ""
+    },
+    {
+      "key" : "Removes player from ignore list, so that you see chat from that player again",
+      "value" : ""
+    },
+    {
+      "key" : "Actions",
+      "value" : ""
+    },
+    {
+      "key" : "Keyboard",
+      "value" : ""
+    },
+    {
+      "key" : "Mouse",
+      "value" : ""
+    },
+    {
+      "key" : "None",
+      "value" : ""
+    },
+    {
+      "key" : "Select unit or building at the mouse cursor",
+      "value" : ""
+    },
+    {
+      "key" : "Clear Selection",
+      "value" : ""
+    },
+    {
+      "key" : "Base Building",
+      "value" : ""
+    },
+    {
+      "key" : "Place or Select Structure",
+      "value" : ""
+    },
+    {
+      "key" : "Sell Structure",
+      "value" : ""
+    },
+    {
+      "key" : "Structure Shortcut 1",
+      "value" : ""
+    },
+    {
+      "key" : "Structure Shortcut 2",
+      "value" : ""
+    },
+    {
+      "key" : "Structure Shortcut 3",
+      "value" : ""
+    },
+    {
+      "key" : "Structure Shortcut 4",
+      "value" : ""
+    },
+    {
+      "key" : "Structure Shortcut 5",
+      "value" : ""
+    },
+    {
+      "key" : "Structure Shortcut 6",
+      "value" : ""
+    },
+    {
+      "key" : "Structure Shortcut 7",
+      "value" : ""
+    },
+    {
+      "key" : "Structure Shortcut 8",
+      "value" : ""
+    },
+    {
+      "key" : "Structure Shortcut 9",
+      "value" : ""
+    },
+    {
+      "key" : "Structure Shortcut 0",
+      "value" : ""
+    },
+    {
+      "key" : "Toggle Structures Menu",
+      "value" : ""
+    },
+    {
+      "key" : "Copy (Pipette) Blueprint",
+      "value" : ""
+    },
+    {
+      "key" : "Upgrade Structure",
+      "value" : ""
+    },
+    {
+      "key" : "Monster Management",
+      "value" : ""
+    },
+    {
+      "key" : "Monster Shortcut 1",
+      "value" : ""
+    },
+    {
+      "key" : "Monster Shortcut 2",
+      "value" : ""
+    },
+    {
+      "key" : "Monster Shortcut 3",
+      "value" : ""
+    },
+    {
+      "key" : "Monster Shortcut 4",
+      "value" : ""
+    },
+    {
+      "key" : "Monster Shortcut 5",
+      "value" : ""
+    },
+    {
+      "key" : "Monster Shortcut 6",
+      "value" : ""
+    },
+    {
+      "key" : "Monster Shortcut 7",
+      "value" : ""
+    },
+    {
+      "key" : "Monster Shortcut 8",
+      "value" : ""
+    },
+    {
+      "key" : "Monster Shortcut 9",
+      "value" : ""
+    },
+    {
+      "key" : "Monster Shortcut 0",
+      "value" : ""
+    },
+    {
+      "key" : "Toggle Monster Menu",
+      "value" : ""
+    },
+    {
+      "key" : "Unleash Wave",
+      "value" : ""
+    },
+    {
+      "key" : "Camera navigation actions",
+      "value" : ""
+    },
+    {
+      "key" : "PanRight",
+      "value" : ""
+    },
+    {
+      "key" : "PanLeft",
+      "value" : ""
+    },
+    {
+      "key" : "PanUp",
+      "value" : ""
+    },
+    {
+      "key" : "PanDown",
+      "value" : ""
+    },
+    {
+      "key" : "ZoomIn",
+      "value" : ""
+    },
+    {
+      "key" : "ZoomOut",
+      "value" : ""
+    },
+    {
+      "key" : "Center camera on own base",
+      "value" : ""
+    },
+    {
+      "key" : "Center camera on target base",
+      "value" : ""
+    },
+    {
+      "key" : "Center camera on assailant base",
+      "value" : ""
+    },
+    {
+      "key" : "Activates tilt for camera",
+      "value" : ""
+    },
+    {
+      "key" : "Activates rotation for camera",
+      "value" : ""
+    },
+    {
+      "key" : "Centers camera on current selection",
+      "value" : ""
+    },
+    {
+      "key" : "Toggle Orbit",
+      "value" : ""
+    },
+    {
+      "key" : "Move camera smoothly upwards along lane",
+      "value" : ""
+    },
+    {
+      "key" : "Move camera smoothly downwards along lane",
+      "value" : ""
+    },
+    {
+      "key" : "Resets camera to the default state.",
+      "value" : ""
+    },
+    {
+      "key" : "Toggle Options Menu",
+      "value" : ""
+    },
+    {
+      "key" : "Toggles the state of strucuture healthbars",
+      "value" : ""
+    },
+    {
+      "key" : "Toggles the state of creature healthbars",
+      "value" : ""
+    },
+    {
+      "key" : "Toggles camera edge panning",
+      "value" : ""
+    },
+    {
+      "key" : "Toggle game overview",
+      "value" : ""
+    },
+    {
+      "key" : "Toggle mouse stickiness",
+      "value" : ""
+    },
+    {
+      "key" : "Toggle feedback verbosity level",
+      "value" : ""
+    },
+    {
+      "key" : "Toggles whether all sound is muted",
+      "value" : ""
+    },
+    {
+      "key" : "Toggles the visibility of the building grid.",
+      "value" : ""
+    },
+    {
+      "key" : "Press a key to assign it to {0}. Modifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value" : ""
+    },
+    {
+      "key" : "Press a mouse button or move an axis to assign it to {0}.",
+      "value" : ""
+    },
+    {
+      "key" : "{0} is already in use. Do you want to replace it? You may also choose to add the assignment anyway.",
+      "value" : ""
+    },
+    {
+      "key" : "The mouse is already assigned to {0}. Do you want to assign the mouse to {1} instead?",
+      "value" : ""
+    },
+    {
+      "key" : "This will restore the default input configuration. Are you sure you want to do this?",
+      "value" : ""
+    },
+    {
+      "key" : "Assignment Conflict",
+      "value" : ""
+    },
+    {
+      "key" : "Replace",
+      "value" : ""
+    },
+    {
+      "key" : "Add",
+      "value" : ""
+    },
+    {
+      "key" : "Left Mouse Button",
+      "value" : ""
+    },
+    {
+      "key" : "Right Mouse Button",
+      "value" : ""
+    },
+    {
+      "key" : "Delete",
+      "value" : ""
+    },
+    {
+      "key" : "Left Control",
+      "value" : ""
+    },
+    {
+      "key" : "Right Control",
+      "value" : ""
+    },
+    {
+      "key" : "Left Shift",
+      "value" : ""
+    },
+    {
+      "key" : "Right Shift",
+      "value" : ""
+    },
+    {
+      "key" : "Left Alt",
+      "value" : ""
+    },
+    {
+      "key" : "Right Alt",
+      "value" : ""
+    },
+    {
+      "key" : "Right Arrow",
+      "value" : ""
+    },
+    {
+      "key" : "Left Arrow",
+      "value" : ""
+    },
+    {
+      "key" : "Up Arrow",
+      "value" : ""
+    },
+    {
+      "key" : "Down Arrow",
+      "value" : ""
+    },
+    {
+      "key" : "Page Down",
+      "value" : ""
+    },
+    {
+      "key" : "Mouse Wheel Up",
+      "value" : ""
+    },
+    {
+      "key" : "Page Up",
+      "value" : ""
+    },
+    {
+      "key" : "Mouse Wheel Down",
+      "value" : ""
+    },
+    {
+      "key" : "Home",
+      "value" : ""
+    },
+    {
+      "key" : "Space",
+      "value" : ""
+    },
+    {
+      "key" : "Tab",
+      "value" : ""
+    },
+    {
+      "key" : "ESC",
+      "value" : ""
+    },
+    {
+      "key" : "Enter",
+      "value" : ""
+    },
+    {
+      "key" : "Play the selected scenario.",
+      "value" : ""
+    },
+    {
+      "key" : "Only the Master Client can start a new game.",
+      "value" : ""
+    },
+    {
+      "key" : "Scenarios",
+      "value" : ""
+    },
+    {
+      "key" : "Localization",
+      "value" : ""
+    },
+    {
+      "key" : "Language",
+      "value" : ""
+    },
+    {
+      "key" : "{0} left this chat.",
+      "value" : ""
+    },
+    {
+      "key" : "This will launch Sandbox mode, do you wish to continue?",
+      "value" : ""
+    },
+    {
+      "key" : "<b>There are {0} player(s) in the global chat</b>",
+      "value" : ""
+    },
+    {
+      "key" : "<b>There are {0} game room(s) currently, containing {1} player(s)</b>",
+      "value" : ""
+    },
+    {
+      "key" : "{0} entered this chat.",
+      "value" : ""
+    },
+    {
+      "key" : "This player is the current income leader.",
+      "value" : ""
+    },
+    {
+      "key" : "This player won the game.",
+      "value" : ""
+    },
+    {
+      "key" : "Protects nearby units by granting a resistance increase against physical, fire, ice and lightning damage.",
+      "value" : ""
+    },
+    {
+      "key" : "Camera Edge Scrolling Allowed: {0}",
+      "value" : ""
+    },
+    {
+      "key" : "Sticky Mouse Active: {0}",
+      "value" : ""
+    },
+    {
+      "key" : "Feedback Verbosity: {0}",
+      "value" : ""
+    },
+    {
+      "key" : "Show Creature Healthbars: {0}",
+      "value" : ""
+    },
+    {
+      "key" : "Show Structure Healthbars: {0}",
+      "value" : ""
+    },
+    {
+      "key" : "Master Volume: {0}",
+      "value" : ""
+    },
+    {
+      "key" : "Grid View Mode: {0}",
+      "value" : ""
+    },
+    {
+      "key" : "You have insufficient resources",
+      "value" : ""
+    },
+    {
+      "key" : "You cannot perform actions, when you are dead.",
+      "value" : ""
+    },
+    {
+      "key" : "You have leaked a monster and lost a life!",
+      "value" : ""
+    },
+    {
+      "key" : "You have leaked a monster and lost lives!",
+      "value" : ""
+    },
+    {
+      "key" : "The position for building is blocked.",
+      "value" : ""
+    },
+    {
+      "key" : "A creature is blocking that position",
+      "value" : ""
+    },
+    {
+      "key" : "That structure is currently locked. Unlock it first.",
+      "value" : ""
+    },
+    {
+      "key" : "You cannot build outside of your buildable lane area.",
+      "value" : ""
+    },
+    {
+      "key" : "The structure is already fully upgraded.",
+      "value" : ""
+    },
+    {
+      "key" : "The structure is already performing an action.",
+      "value" : ""
+    },
+    {
+      "key" : "Only structures owned by you can be upgraded.",
+      "value" : ""
+    },
+    {
+      "key" : "A {0} in your base was destroyed!",
+      "value" : ""
+    },
+    {
+      "key" : "The creature is already fully upgraded.",
+      "value" : ""
+    },
+    {
+      "key" : "The creature is already being upgraded.",
+      "value" : ""
+    },
+    {
+      "key" : "The creature you are trying to spawn is currently recharging. Please wait.",
+      "value" : ""
+    },
+    {
+      "key" : "That creature is currently locked. Unlock it first.",
+      "value" : ""
+    },
+    {
+      "key" : "You have exceeded the maximum concurrent creatures that you may spawn.",
+      "value" : ""
+    },
+    {
+      "key" : "You cannot spawn when you have no live enemy.",
+      "value" : ""
+    },
+    {
+      "key" : "You cannot spawn after you have lost.",
+      "value" : ""
+    },
+    {
+      "key" : "You cannot spawn yet, the spawning grace period is still in effect.",
+      "value" : ""
+    },
+    {
+      "key" : "{0} research completed.",
+      "value" : ""
+    },
+    {
+      "key" : "Income received for round {0}",
+      "value" : ""
+    },
+    {
+      "key" : "Unfortunately joining the next game failed, and you will be returned to the menu.",
+      "value" : ""
+    },
+    {
+      "key" : "Abort",
+      "value" : ""
+    },
+    {
+      "key" : "There is a new version of the game available, do you want to exit and update?",
+      "value" : ""
+    },
+    {
+      "key" : "Cursor Window Locked",
+      "value" : ""
+    },
+    {
+      "key" : "Whether the mouse cursor is confined to the game window (regardless of Fullscreen or Windowed mode).",
+      "value" : ""
+    },
+    {
+      "key" : "Are you sure you want to leave the game?",
+      "value" : ""
+    },
+    {
+      "key" : "The selected game was already closed, please join another or create your own game.",
+      "value" : ""
+    },
+    {
+      "key" : "Defeat",
+      "value" : ""
+    },
+    {
+      "key" : "No more waves",
+      "value" : ""
+    },
+    {
+      "key" : "Small, weak and pathetic. This slobbertail is barely a nuisance in itself, but it can be dangerous in numbers.",
+      "value" : ""
+    },
+    {
+      "key" : "Hornmite",
+      "value" : ""
+    },
+    {
+      "key" : "Crackleblare",
+      "value" : ""
+    }
+  ]
+}

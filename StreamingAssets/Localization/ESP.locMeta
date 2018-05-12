@@ -1,1 +1,6 @@
-{"@type":"Unleash.LocalizationMeta, Unleash.Foundation","languageName":"Espa\u00f1ol","languageCode":"ESP","filename":"ESP.loc"}
+{
+  "@type" : "Unleash.LocalizationMeta, Unleash.Foundation",
+  "languageName" : "Espa\u00f1ol",
+  "languageCode" : "ESP",
+  "filename" : "ESP.loc"
+}

@@ -1,1 +1,6 @@
-{"@type":"Unleash.LocalizationMeta, Unleash.Foundation","languageName":"Fran\u00e7ais","languageCode":"FRA","filename":"FRA.loc"}
+{
+  "@type" : "Unleash.LocalizationMeta, Unleash.Foundation",
+  "languageName" : "Fran\u00e7ais",
+  "languageCode" : "FRA",
+  "filename" : "FRA.loc"
+}

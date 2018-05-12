@@ -1,1 +1,6 @@
-{"@type":"Unleash.LocalizationMeta, Unleash.Foundation","languageName":"Italiano","languageCode":"ITA","filename":"ITA.loc"}
+{
+  "@type" : "Unleash.LocalizationMeta, Unleash.Foundation",
+  "languageName" : "Italiano",
+  "languageCode" : "ITA",
+  "filename" : "ITA.loc"
+}

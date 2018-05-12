@@ -1,1 +1,6 @@
-{"@type":"Unleash.LocalizationMeta, Unleash.Foundation","languageName":"Polskie","languageCode":"POL","filename":"POL.loc"}
+{
+  "@type" : "Unleash.LocalizationMeta, Unleash.Foundation",
+  "languageName" : "Polskie",
+  "languageCode" : "POL",
+  "filename" : "POL.loc"
+}
